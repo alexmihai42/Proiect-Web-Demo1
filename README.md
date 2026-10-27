@@ -1,25 +1,3 @@
-# Proiect Web Demo
-
-![Banner animat cu fundal colorat: Salut, lume!](banner.gif)
-
-O pagină web simplă, realizată ca exercițiu pentru **Laboratorul 5**. Proiectul afișează un mesaj de bun venit folosind elemente HTML de bază.
-
-## Conținut
-
-Pagina prezintă titlul „Salut Lume!” și mesajul „Bine ați venit pe pagina mea web!”.
-
-## Structura proiectului
-
-```text
-Proiect_Web/
-├── index.html   # Pagina web
-└── README.md    # Descrierea proiectului
-```
-
-## Cum îl deschizi
-
-Deschide fișierul `index.html` într-un browser. Nu este necesară instalarea unor dependențe sau pornirea unui server.
-
-## Tehnologii
-
-- HTML
+<p align="center">
+	<img src="banner.gif" alt="Proiect Web Demo, exercițiu HTML pentru Laboratorul 5. Salut, lume! O pagină web simplă cu mesaj de bun venit. Deschide index.html în browser; fără dependențe." />
+</p>
