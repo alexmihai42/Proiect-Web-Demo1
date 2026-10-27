@@ -1,5 +1,7 @@
 # Proiect Web Demo
 
+![Banner animat cu fundal colorat: Salut, lume!](banner.gif)
+
 O pagină web simplă, realizată ca exercițiu pentru **Laboratorul 5**. Proiectul afișează un mesaj de bun venit folosind elemente HTML de bază.
 
 ## Conținut
